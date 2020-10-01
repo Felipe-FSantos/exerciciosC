@@ -1,2 +1,3 @@
 # exerciciosC
 Linguagem C++
+Projetos que desenvolvi por estudos na Faculdade de Ciências da Computação...
